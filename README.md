@@ -16,6 +16,13 @@ Remember that each emulator has their own way to map / configure keys and someti
 
 I tried an attemps with a powershell script but it does not work : KeyLog.ps1
 
+## OS
+
+### Windows
+After noticing a performance downgrade with windows 10 updates I started a comparision between Windows 7/ Windows 8 and Windows 10 version.
+
+The best FPS with my harware was the Windows 10 1511 after windows 7 then windows 8. Higher version of Windows 10 slowdown the performance and you could have some FPS performance instability.
+
 ## Architecture
 
 The integration is a chain of executable script from the frontend to the emulator.
