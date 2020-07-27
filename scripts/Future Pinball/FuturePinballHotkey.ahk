@@ -1,4 +1,5 @@
 #SingleInstance force
+#NoTrayIcon
 
 #CommentFlag Look at Backglass
 w::Tab
