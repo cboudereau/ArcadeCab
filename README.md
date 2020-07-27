@@ -2,15 +2,15 @@
 arcadecab script for frontend / emulator integration
 
 ## Why
-I started with one front end that give me a first experience but after years I saw other front end with great features and less problem. So I migrated my front end to an other one and discovered some integration problems.
+I started with one front end which gives me a first experience but after years I saw other front ends with great features and less problems. So I migrated my front end to an other one and discovered some integration problems.
 
-For every problem I found a standalone solution to make a front-end/launcher free solution that give...
+For every problem I found a standalone solution to make a front-end/launcher free scripts to reduce front end migration effort.
 
 ## Philosophy
 
 AracadeCab helps you to build the software part of an arcade machine from the frontend to emulators integration.
 I use only a transversal way to integrate frontend to emulators. Basically each Frontend launch an exe with the rom name/path as parameter.
-I use batch script + AutoHotkey exe to map keyboard. I am not a big fan of AutoHotkey but it is the only one that handles keyboard keys fine (ie pause and break keys, multiple keys and so on).
+I use batch script + AutoHotkey exe to map keyboard. I am not a big fan of AutoHotkey but it is the only one which handles keyboard keys properly (ie pause and break keys, multiple keys and so on).
 
 Remember that each emulator has their own way to map / configure keys and sometimes keys are hard coded.
 
@@ -21,18 +21,21 @@ I tried an attemps with a powershell script but it does not work : KeyLog.ps1
 ### Windows
 After noticing a performance downgrade with windows 10 updates I started a comparision between Windows 7/ Windows 8 and Windows 10 version.
 
-The best FPS with my harware was the Windows 10 1511 after windows 7 then windows 8. Higher version of Windows 10 slowdown the performance and you could have some FPS performance instability.
+The best FPS with my harware was the Windows 10 1511 after windows 7 then windows 8. Higher version of Windows 10 slowdown the performance and you could have some FPS performance instability and penalty.
 
 ## Architecture
 
-The integration is a chain of executable script from the frontend to the emulator.
+The integration is a chain of executable scripts from the frontend to the emulator.
 
 Frontend > Integration Script > Emulator
 
 ### Frontends
-Hyperspin, Launchbox, Maximus or whatever. I had used Maximus due to the transversal features but after somes issues (game not saved, ...) I try a custom integration with Hyperspin.
+Hyperspin, Launchbox, Maximus or whatever. I used Maximus due to the transversal features but after somes issues (game not saved, ...) I tried a custom integration with Hyperspin which is perfect.
 
-### Integration Script : The script called by the frontend
+### tools
+Under the tools folder you can find usefull script/tools for HyperSpin Databases and theme integration
+
+### Integration Scripts : The script called by the frontend
 You can find each script for specific emulator into script folder
 The integration script is used to : 
 
