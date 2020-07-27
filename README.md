@@ -33,7 +33,7 @@ Frontend > Integration Script > Emulator
 Hyperspin, Launchbox, Maximus or whatever. I used Maximus due to the transversal features but after somes issues (game not saved, ...) I tried a custom integration with Hyperspin which is perfect.
 
 ### tools
-Under the tools folder you can find usefull script/tools for HyperSpin Databases and theme integration
+Under the tools folder you can find useful script/tools for HyperSpin Databases and theme integration
 
 ### Integration Scripts : The script called by the frontend
 You can find each script for specific emulator into script folder
@@ -44,7 +44,7 @@ The integration script is used to :
  - Map additionals keys like Future Pinball.
  
 ### Emulators
-I Wrote integration script for. For the sake of the simplicity, sometimes it is duplicated but easy to update without too much dependencies and impacts. 
+For the sake of the simplicity, sometimes it is duplicated but easy to update without too much dependencies and impacts. Scrupts are available for :
  - Mame
  - Future Pinball
  - Nintendo - Game & Watch
