@@ -1,6 +1,6 @@
 # Nintendo - Game Boy
 
-Those scripts are compatible with Nintendo all Game Boy (Game Boy Advance, Game Boy Color, Game Boy)
+Those scripts are compatible with all Nintendo Game Boy (Game Boy Advance, Game Boy Color, Game Boy)
 
 The run.cmd will
  * start the Hotkey.exe which redirects &+" to Esc. You can change the mapping by updating the Hotkey.ahk scripts.
