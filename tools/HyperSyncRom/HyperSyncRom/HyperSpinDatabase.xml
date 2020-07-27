@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Future Pinball</listname>
+    <lastlistupdate>07/07/2019X</lastlistupdate>
+    <listversion>.146 Ongoing</listversion>
+    <exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+  </header>
+  <game name="AAAAAAAAAAAAA">
+    <description>AAAAAAAAAAAAA</description>
+    <manufacturer>Pinball</manufacturer>
+    <year>1988</year>
+    <crc>C38B62CB</crc>
+    <cloneof>BBBBBBB</cloneof>
+    <genre>Sports/Track &amp; Field</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+  </game>
+  <game name="Fh_1_12-light">
+    <description>Fun House</description>
+    <manufacturer>Pinball</manufacturer>
+    <year>1988</year>
+    <genre>Sports/Track &amp; Field</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+  </game>
+  <game name="BBBBBBBBBBBBBBBBB">
+    <description>BBBBBBBBBBBBBBBBB</description>
+    <manufacturer>Pinball</manufacturer>
+    <year>1988</year>
+    <genre>Sports/Track &amp; Field</genre>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+  </game>
+</menu>

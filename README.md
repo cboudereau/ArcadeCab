@@ -41,7 +41,7 @@ The integration script is used to :
  - Map additionals keys like Future Pinball.
  
 ### Emulators
-I Wrote integration script for 
+I Wrote integration script for. For the sake of the simplicity, sometimes it is duplicated but easy to update without too much dependencies and impacts. 
  - Mame
  - Future Pinball
  - Nintendo - Game & Watch
