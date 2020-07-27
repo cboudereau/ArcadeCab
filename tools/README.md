@@ -10,7 +10,7 @@ Each command is self documented.
 Resize-Image is a powershell script usefull to convert 4:3 to 16:9 by a resize in percent of 75 percent width.
 
 ## HyperSyncRom
-This tool help me to build a consistant HyperSpin database according to available roms I have.
+This tool helps me to build a consistant HyperSpin database according to available roms I have.
 
 ### Syncing
 Sync command will add available roms found in the supplied directory into the database. I use this one for missing emulator from HyperList like Future Pinball. For others, use the renaming command instead.
