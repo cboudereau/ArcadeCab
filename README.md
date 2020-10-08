@@ -39,12 +39,12 @@ Under the tools folder you can find useful script/tools for HyperSpin Databases 
 You can find each script for specific emulator into script folder
 The integration script is used to : 
 
- - Correctly map keys to quit a game and avoid a kill of the process (like maximus does). The kill can corrupt your data or simply not save your state.
+ - Correctly map keys to quit a game and avoid a kill of the process (like maximus does). The kill can corrupt your data or simply doesn't  save your state.
  - Launch the emulator with the correct parameters / paths and window style
  - Map additionals keys like Future Pinball.
  
 ### Emulators
-For the sake of the simplicity, sometimes it is duplicated but easy to update without too much dependencies and impacts. Scrupts are available for :
+For the sake of the simplicity, sometimes it is duplicated but easy to update without too much dependencies and impacts. Scripts are available for :
  - Mame
  - Future Pinball
  - Nintendo - Game & Watch
@@ -60,3 +60,7 @@ For the sake of the simplicity, sometimes it is duplicated but easy to update wi
  - Sega - MegaCd
  - Sega - MegaDrive
  - Sony - PlayStation
+
+### Demo
+Front End : https://youtu.be/YXh1UzTFK6g
+Light Gun : https://youtu.be/BDYVlEeiiqk
