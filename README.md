@@ -62,5 +62,5 @@ For the sake of the simplicity, sometimes it is duplicated but easy to update wi
  - Sony - PlayStation
 
 ### Demo
-Front End : https://youtu.be/YXh1UzTFK6g
-Light Gun : https://youtu.be/BDYVlEeiiqk
+- Front End : https://youtu.be/YXh1UzTFK6g
+- Light Gun : https://youtu.be/BDYVlEeiiqk
