@@ -64,4 +64,4 @@ For the sake of the simplicity, sometimes it is duplicated but easy to update wi
 ### Demo
 - Front End : https://youtu.be/YXh1UzTFK6g
 - Light Gun : https://youtu.be/BDYVlEeiiqk
-- Pinball : https://www.youtube.com/watch?v=V_hiqR8MrH4
+- Pinball : https://youtu.be/V_hiqR8MrH4
