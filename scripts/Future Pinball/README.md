@@ -33,3 +33,4 @@ hyperlaunch=false
 
 ## Table database links
 http://www.pinsimdb.org/pinball/index-10-future_pinball
+https://ipdb.org/search.pl?searchtype=quick
